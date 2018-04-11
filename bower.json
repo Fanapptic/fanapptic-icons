@@ -1,0 +1,26 @@
+{
+  "name": "fanapptic-icons",
+  "homepage": "https://github.com/Fanapptic/fanapptic-icons",
+  "authors": [
+    "Santiago Garza <s.gonzalez.garza@gmail.com>"
+  ],
+  "description": "Custom SVG icon set designed by Fanapptic.",
+  "main": "css/fanapptic-icons.css",
+  "keywords": [
+    "fanapptic",
+    "icon",
+    "icons",
+    "font",
+    "fonts",
+    "svg",
+    "svgs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
