@@ -5,7 +5,10 @@
     "Santiago Garza <s.gonzalez.garza@gmail.com>"
   ],
   "description": "Custom SVG icon set designed by Fanapptic.",
-  "main": "css/fanapptic-icons.css",
+  "main": [
+    "sass/_fanapptic-icons.scss",
+    "fonts/"
+  ],
   "keywords": [
     "fanapptic",
     "icon",
