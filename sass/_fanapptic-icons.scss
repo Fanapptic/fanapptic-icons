@@ -20,6 +20,7 @@
 .fan-heart-fill:before { content:'\0062'; }
 .fan-message-fill:before { content:'\0063'; }
 .fan-media-upload:before { content:'\0064'; }
+.fan-gif-upload:before { content:'\0065'; }
 
 .fan-airplane-outline:before,
 .fan-bell-outline:before,
@@ -31,7 +32,8 @@
 .fan-airplane-fill:before,
 .fan-heart-fill:before,
 .fan-message-fill:before,
-.fan-media-upload:before {
+.fan-media-upload:before
+.fan-gif-upload:before {
 	display: inline-block;
    font-family: 'Fanapptic-Icons';
    font-style: normal;
